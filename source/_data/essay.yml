@@ -1,0 +1,7 @@
+- class_name: 即刻短文
+  essay_list:
+    - content: xxx
+      date: 2024/04/11
+      image:
+        - https://xxx.jpg
+
