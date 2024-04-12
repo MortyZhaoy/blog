@@ -13,11 +13,11 @@ top_img: false
 <!-- tab 🙋 butterfly-💭candy -->
 
 ```yml
-- name: 安知鱼`Blog
-  link: https://anzhiy.cn/
-  avatar: https://img02.anzhiy.cn/adminuploads/1/2022/09/15/63232b7d91d22.jpg
-  descr: 生活明朗，万物可爱
-  siteshot: https://npm.elemecdn.com/anzhiyu-blog@1.1.6/img/post/common/anzhiy.cn.jpg
+- name: morty's blog
+  link: https://mortyzhaoy.github.io
+  avatar: https://raw.githubusercontent.com/MortyZhaoy/blog_image/main/images/111164782.png
+  descr: 别急，慢慢来。终会做成的。
+  siteshot: "https://xxx.jpg"
 ```
 
 <!-- endtab -->
@@ -26,12 +26,12 @@ top_img: false
 
 ```json
 {
-  "title": "安知鱼`Blog",
-  "screenshot": "https://npm.elemecdn.com/anzhiyu-blog@1.1.6/img/post/common/anzhiy.cnp.jpg",
-  "url": "https://anzhiy.cn/",
-  "avatar": "https://img02.anzhiy.cn/adminuploads/1/2022/09/15/63232b7d91d22.jpg",
-  "description": "生活明朗，万物可爱",
-  "keywords": "安知鱼"
+  "title": "morty's blog",
+  "screenshot": "https://xxx.jpg",
+  "url": "https://mortyzhaoy.github.io",
+  "avatar": "https://raw.githubusercontent.com/MortyZhaoy/blog_image/main/images/111164782.png",
+  "description": "别急，慢慢来。终会做成的。",
+  "keywords": "morty"
 }
 ```
 
@@ -41,12 +41,12 @@ top_img: false
 
 | 名称       | 数值                                                                      |
 | :--------- | :------------------------------------------------------------------------ |
-| 站点名称   | 安知鱼`Blog                                                               |
-| 站点截图   | https://npm.elemecdn.com/anzhiyu-blog@1.1.6/img/post/common/anzhiy.cn.jpg |
-| 站点链接   | https://anzhiy.cn/                                                        |
-| 站长头像   | https://img02.anzhiy.cn/adminuploads/1/2022/09/15/63232b7d91d22.jpg       |
-| 站点描述   | 生活明朗，万物可爱                                                        |
-| 站点关键词 | 安知鱼, 个人博客， 生活                                                   |
+| 站点名称   | morty's blog                                                              |
+| 站点截图   | https://xxx.jpg |
+| 站点链接   | https://mortyzhaoy.github.io                                              |
+| 站长头像   | https://raw.githubusercontent.com/MortyZhaoy/blog_image/main/images/111164782.png       |
+| 站点描述   | 别急，慢慢来。终会做成的。                                                        |
+| 站点关键词 | morty                                                   |
 
 <!-- endtab -->
 
@@ -54,10 +54,10 @@ top_img: false
 
 ```yml
 - {
-    title: "安知鱼",
-    intro: "生活明朗，万物可爱",
-    link: "https://anzhiy.cn/",
-    image: "https://img02.anzhiy.cn/adminuploads/1/2022/09/15/63232b7d91d22.jpg",
+    title: "morty's blog",
+    intro: "别急，慢慢来。终会做成的。",
+    link: "https://mortyzhaoy.github.io",
+    image: "https://raw.githubusercontent.com/MortyZhaoy/blog_image/main/images/111164782.png",
   }
 ```
 
@@ -67,12 +67,12 @@ top_img: false
 
 ```yml
 {
-  "title": "安知鱼",
-  "avatar": "https://img02.anzhiy.cn/adminuploads/1/2022/09/15/63232b7d91d22.jpg",
-  "screenshot": "https://npm.elemecdn.com/anzhiyu-blog@1.1.6/img/post/common/anzhiy.cn.jpg",
-  "url": "https://anzhiy.cn/",
-  "description": "生活明朗，万物可爱",
-  "group": ,#根据你的博客来定义
+  "title": "morty's blog",
+  "avatar": "https://raw.githubusercontent.com/MortyZhaoy/blog_image/main/images/111164782.png",
+  "screenshot": "https://xxx.jpg",
+  "url": "https://mortyzhaoy.github.io",
+  "description": "别急，慢慢来。终会做成的。",
+  "group": ,# 根据你的博客来定义
 }
 ```
 
@@ -81,7 +81,7 @@ top_img: false
 <!-- tab Html -->
 
 ```html
-<a href="https://anzhiy.cn/" rel="external nofollow">安知鱼-生活明朗</a>
+<a href="https://mortyzhaoy.github.io" rel="external nofollow">morty-blog</a>
 ```
 
 <!-- endtab -->
@@ -89,7 +89,7 @@ top_img: false
 <!-- tab Jade -->
 
 ```code
-a(href='https://anzhiy.cn/' rel="external nofollow") 安知鱼-生活明朗
+a(href='https://mortyzhaoy.github.io' rel="external nofollow") morty-blog
 ```
 
 <!-- endtab -->
@@ -118,11 +118,11 @@ a(href='https://anzhiy.cn/' rel="external nofollow") 安知鱼-生活明朗
 
 为了避免图床问题，建议你将头像存储到贵站图床。
 
-1. 我的名称：安知鱼
-2. 网站地址：https://anzhiy.cn/
-3. 描述：生活明朗，万物可爱
-4. 头像：https://img02.anzhiy.cn/adminuploads/1/2022/09/15/63232b7d91d22.jpg
-5. 站点截图：https://npm.elemecdn.com/anzhiyu-blog@1.1.6/img/post/common/anzhiy.cn.jpg
+1. 我的名称：morty's blog
+2. 网站地址：https://mortyzhaoy.github.io
+3. 描述：别急，慢慢来。终会做成的。
+4. 头像：https://raw.githubusercontent.com/MortyZhaoy/blog_image/main/images/111164782.png
+5. 站点截图：https://xxx.jpg
 
 参照以下格式留言 📋 即可。
 
@@ -137,11 +137,11 @@ a(href='https://anzhiy.cn/' rel="external nofollow") 安知鱼-生活明朗
 示例 📢：
 
 ```yml
-昵称：安知鱼
-网站地址：https://anzhiy.cn/
-头像图片url：https://img02.anzhiy.cn/adminuploads/1/2022/09/15/63232b7d91d22.jpg
-描述：生活明朗，万物可爱
-站点截图:(可选)：https://npm.elemecdn.com/anzhiyu-blog@1.1.6/img/post/common/anzhiy.cn.jpg
+昵称：morty's blog
+网站地址：https://mortyzhaoy.github.io
+头像图片url：https://raw.githubusercontent.com/MortyZhaoy/blog_image/main/images/111164782.png
+描述：别急，慢慢来。终会做成的。
+站点截图:(可选)：https://xxx.jpg
 ```
 
 {% tip faa-horizontal animated %}
@@ -183,7 +183,7 @@ https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/anzhiy.cn/https://
 
 最新文章部分为机器抓取，本站作者未经过任何审核和筛选，本着友链信任原则添加的。如果你发现其中包含违反中华人民共和国法律的内容，请及时联系和举报。该友链会被拉黑。
 
-如果因为从本页跳转给你造成了损失，深表歉意，并且建议用户如果发现存在问题在本页面进行回复。通常会很快处理。如果长时间无法得到处理，建议联系`anzhiyu-c@qq.com`。
+如果因为从本页跳转给你造成了损失，深表歉意，并且建议用户如果发现存在问题在本页面进行回复。通常会很快处理。如果长时间无法得到处理，建议联系`morty.zhaoy@gmail.com`。
 
 {% endfolding %}
 
@@ -194,46 +194,11 @@ https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/anzhiy.cn/https://
 如果友链出现问题会展示在这里，如果已解决问题还请告知。
 
 ```yml
-- name: 月落星河Tsukistar # 无友链
-  link: https://www.tsukistar.fun
-  avatar: https://img02.anzhiy.cn/thumbnails/b06fa23157e29c67dbca5766151621b4.png
-  descr: 浩瀚中的伟大，孤独间的渺小
-  siteshot: https://img02.anzhiy.cn/adminuploads/1/2022/09/02/6311fd47c9ea6.webp
-
-- name: 仰止 # 无友链
-  link: https://www.yangzhiblog.com
-  avatar: https://img02.anzhiy.cn/thumbnails/8d1ad930ec52750239ea6b7d0a3a44f5.png
-  descr: 高山仰止，景行行止
-  siteshot: https://img02.anzhiy.cn/thumbnails/85e4d93f855e048c75c8cb07b74236bb.png
-
-- name: SuYi|宿仪 #无友链
-  link: https://www.thotz.top
-  avatar: https://img02.anzhiy.cn/adminuploads/1/2022/09/20/63294be323a1a.png
-  descr: 随心写作，随缘阅读！
-  siteshot: https://img02.anzhiy.cn/adminuploads/1/2022/09/20/63294be7b5c20.jpg
-
-- name: Xlenco #无友链
-  link: https://xlenco.eu.org
-  avatar: https://img02.anzhiy.cn/adminuploads/1/2022/10/04/633b93d930cd9.jpg
-  descr: 最好的地方,是没去过的地方。最好的时光，是回不来的时光。
-  siteshot: https://img02.anzhiy.cn/adminuploads/1/2022/10/04/633b93d35e56b.jpg
-
-- name: 呆鱼 #无友链
-  link: https://daiyu-233.top
-  avatar: https://img02.anzhiy.cn/adminuploads/1/2022/10/16/634b6ba10c77f.png
-  descr: 命运之所以称为命运，正是因为它无可改变。
-  siteshot: https://img02.anzhiy.cn/adminuploads/1/2022/10/16/634b6ba10c3a2.png
-
-- name: 晨讯 #无友链
-  link: https://zsuh.cc
-  avatar: https://img02.anzhiy.cn/adminuploads/1/2022/10/12/6346b92ed36c7.png
-  descr: 专注于编程技术分享，记录生活琐事
-  siteshot: https://img02.anzhiy.cn/adminuploads/1/2022/10/12/6346b92edf3e5.jpg
-
-- name: 鲸落
-  link: https://www.blogog.top/
-  avatar: https://img02.anzhiy.cn/adminuploads/1/2023/03/26/641ff70c9392c.webp
-  descr: "There is only one heroism in the world: to see the world as it is and to love it."
+- name: xxx # 无友链
+  link: https://www.xxx.com
+  avatar: https://xxx.jpg
+  descr: xxx
+  siteshot: https://xxx.jpg
 ```
 
 {% endfolding %}

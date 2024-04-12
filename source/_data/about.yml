@@ -1,8 +1,8 @@
 - class_name: 关于页
-  subtitle: 生活明朗，万物可爱✨
-  avatarImg: https://img02.anzhiy.cn/adminuploads/1/2022/09/15/63232b7d91d22.jpg
-  name: 陈志伟
-  description: 是一名 前端工程师、学生、独立开发者、博主
+  subtitle: 别急，慢慢来。终会做成的。
+  avatarImg: https://raw.githubusercontent.com/MortyZhaoy/blog_image/main/images/111164782.png
+  name: morty
+  description: 是一名 嵌入式软件开发工程师
   aboutsiteTips:
     tips: 追求
     title1: 源于
@@ -20,148 +20,66 @@
     tips: 生涯
     title: 无限进步
     item:
-      - EDU,软件工程专业
-    img: https://img02.anzhiy.cn/adminuploads/1/2022/09/26/6330e9bcc39cc.png
+      - 创造，开发。
+    img: https://raw.githubusercontent.com/MortyZhaoy/blog_image/main/images/36369c5f882211ebb6edd017c2d2eca2.jpg
   statistic:
     link: /archives
     text: 文章隧道
-    cover: https://img02.anzhiy.cn/adminuploads/1/2022/09/23/632d634f8376d.jpg
+    cover: https://raw.githubusercontent.com/MortyZhaoy/blog_image/main/images/45663c9f2ce54eb2ae8628efb0c43390.jpg
   map:
     title: 我现在住在
-    StrengthenTitle: 中国，长沙市
-    background: https://img02.anzhiy.cn/adminuploads/1/2022/09/24/632e6f48981d8.jpg
-    backgroundDark: https://img02.anzhiy.cn/adminuploads/1/2022/09/26/6330ebf1f3e65.jpg
+    StrengthenTitle: earth，c137
+    background: https://raw.githubusercontent.com/MortyZhaoy/blog_image/main/images/a6fec42e882111ebb6edd017c2d2eca2.jpg
+    # backgroundDark: https://img02.anzhiy.cn/adminuploads/1/2022/09/26/6330ebf1f3e65.jpg
   selfInfo:
     selfInfoTips1: 生于
-    selfInfoContentYear: 2002
-    selfInfoTips2: 湖南信息学院
-    selfInfoContent2: 软件工程
-    selfInfoTips3: 现在职业
-    selfInfoContent3: 大三学生👨‍🎓
+    selfInfoContentYear: xxx
+    selfInfoTips2: xxx
+    selfInfoContent2: xxx
+    selfInfoTips3: xxx
+    selfInfoContent3: xxx
   personalities:
-    author_name: 执政官
-    personality_type: ESFJ-A
-    photo_url: https://img02.anzhiy.cn/adminuploads/1/2022/09/24/632e9643611ec.jpg
-    personality_img: https://npm.elemecdn.com/anzhiyu-blog@2.0.8/img/svg/ESFJ-A.svg
-    name_url: https://www.16personalities.com/ch/esfj-%E4%BA%BA%E6%A0%BC
+    author_name: 提倡者
+    personality_type: INFJ-A / INFJ-T
+    photo_url: https://raw.githubusercontent.com/MortyZhaoy/blog_image/main/images/diplomats_Advocate_INFJ_personality_header.svg
+    personality_img: https://raw.githubusercontent.com/MortyZhaoy/blog_image/main/images/infj-advocate.svg
+    name_url: https://www.16personalities.com/ch/infj-%E4%BA%BA%E6%A0%BC
   maxim:
     maxim_tips: 座右铭
-    maxim_top: 生活明朗，
-    maxim_bottom: 万物可爱。
+    maxim_top: 别急，慢慢来。
+    maxim_bottom: 终会做成的。
   buff:
     buff_tips: 特长
-    buff_top: 脑回路新奇的 酸菜鱼
-    buff_bottom: 二次元指数 MAX
+    buff_top: 脑回路新奇的
+    buff_bottom: 喜欢画画
   game:
     game_tips: 爱好游戏
-    game_title: 原神
-    game_uid: "UID: 125766904"
-    game_bg: https://img02.anzhiy.cn/adminuploads/1/2022/12/19/63a079ca63c8a.webp
+    game_title: Battlefield™ 2042
+    game_uid: "morty.zhaoy"
+    game_bg: https://raw.githubusercontent.com/MortyZhaoy/blog_image/main/images/gamersky_01origin_01_202169206DC4.jpg
   comic:
-    comic_tips: 爱好番剧
-    comic_title: 追番
+    comic_tips: 爱好美剧
+    comic_title: 美剧
     comic_list:
-      - name: 约定的梦幻岛
-        href: https://www.bilibili.com/bangumi/media/md5267750/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
-        cover: https://img02.anzhiy.cn/adminuploads/1/2022/12/13/63988658aa1b1.webp
-      - name: 咒术回战
-        href: https://www.bilibili.com/bangumi/media/md28229899/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
-        cover: https://img02.anzhiy.cn/adminuploads/1/2022/12/13/6398864e572ed.webp
-      - name: 紫罗兰永恒花园
-        href: https://www.bilibili.com/bangumi/media/md8892/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
-        cover: https://img02.anzhiy.cn/adminuploads/1/2022/12/13/639886315d658.webp
-      - name: 鬼灭之刃
-        href: https://www.bilibili.com/bangumi/media/md22718131/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
-        cover: https://img02.anzhiy.cn/adminuploads/1/2022/12/13/639886403d472.webp
-      - name: JOJO的奇妙冒险 黄金之风
-        href: https://www.bilibili.com/bangumi/media/md135652/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
-        cover: https://img02.anzhiy.cn/adminuploads/1/2022/12/13/6398862649585.webp
+      - name: Stranger Things（怪奇物语）
+        href: https://www.netflix.com/hk-en/title/80057281
+        cover: https://raw.githubusercontent.com/MortyZhaoy/blog_image/main/images/p2873896405.webp
+      - name: LOVE，DEATH & ROBOTS（爱，死，机）
+        href: https://www.netflix.com/hk/title/80174608
+        cover: https://raw.githubusercontent.com/MortyZhaoy/blog_image/main/images/p2551333267.webp
   like:
     like_tips: 关注偏好
-    like_title: 数码科技
-    like_bg: https://img02.anzhiy.cn/adminuploads/1/2022/09/24/632f0dd8f33c6.webp
-    like_bottom: 手机、电脑软硬件
+    like_title: 造新奇的东西
+    like_bg: https://raw.githubusercontent.com/MortyZhaoy/blog_image/main/images/17a2ea2d775c41198901351e59337980.jpg
+    like_bottom: 机械，软硬件开发
   music:
     music_tips: 音乐偏好
-    music_title: 许嵩、民谣、华语流行
-    music_bg: https://p2.music.126.net/Mrg1i7DwcwjWBvQPIMt_Mg==/79164837213438.jpg
+    music_title: 华语流行
+    music_bg: https://raw.githubusercontent.com/MortyZhaoy/blog_image/main/images/2f722996a953d9ffb0374dd007f67b6c.jpeg
     music_link: /music
   reward_list:
-    - name: "S*h"
-      amount: 8.88
-      datatime: 2023-04-03
-    - name: "不再联系"
-      amount: 8.8
-      datatime: 2023-04-03
-    - name: "*城"
-      amount: 8
-      datatime: 2023-04-04
-    - name: "*、"
-      amount: 5
-      datatime: 2023-04-09
-    - name: "r*x"
-      amount: 2
-      datatime: 2023-04-15
-    - name: "*八"
-      amount: 10
-      datatime: 2023-04-17
-    - name: "*边"
-      amount: 10
-      datatime: 2023-04-21
-    - name: 失落森林O_0
-      amount: 3.36
-      datatime: 2023-04-12
-      suffix: 贝壳
-    - name: 起名什么的最麻烦了_
-      amount: 3.36
-      datatime: 2023-04-05
-      suffix: 贝壳
-    - name: 海阔蓝
-      amount: 8.8
-      datatime: 2023-03-28
-    - name: LK66
-      amount: 66.6
-      datatime: 2023-03-24
-    - name: 张时貳
-      amount: 6.6
-      datatime: 2023-01-22
-    - name: ZeroAf
-      amount: 9.9
-      datatime: 2022-12-14
-    - name: LuckyWangXi
-      amount: 6.6
-      datatime: 2022-12-14
-    - name: 刀中日月长
-      amount: 10
-      datatime: 2022-11-16
-    - name: 鹿啵包
-      amount: 10
-      datatime: 2022-11-08
-    - name: 疾速k
-      amount: 50
-      datatime: 2022-09-20
-    - name: 伴舟先生大霖子
-      amount: 4.03
-      datatime: 2022-10-27
-      suffix: 贝壳
-    - name: Magica_0x0
-      amount: 3.36
-      datatime: 2022-10-07
-      suffix: 贝壳
-    - name: 名字就是要短像这样
-      amount: 3.36
-      datatime: 2022-08-25
-      suffix: 贝壳
-    - name: Leviathan520
-      amount: 1.34
-      datatime: 2022-08-23
-      suffix: 贝壳
-    - name: 托马斯
-      amount: 10
-      datatime: 2022-08-19
-    - name: 哇是猫猫欸
-      amount: 1.34
-      datatime: 2022-08-19
-      suffix: 贝壳
+    - name: "xxx"
+      amount: 0
+      datatime: 2024-04-11
 
   extra: true
