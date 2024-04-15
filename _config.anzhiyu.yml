@@ -343,7 +343,7 @@ valine:
 # waline - A simple comment system with backend support fork from Valine
 # https://waline.js.org/
 waline:
-  serverURL: https://waline-g5zs2gsmm-mortyzhaoys-projects.vercel.app # Waline server address url
+  serverURL: https://waline-chi-ivory.vercel.app/ # Waline server address url
   bg: # waline background
   pageview: true
   meta: true # 归属地, 操作系统 前是否显示图标
