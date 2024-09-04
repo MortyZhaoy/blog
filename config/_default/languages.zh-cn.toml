@@ -1,0 +1,24 @@
+languageCode = "zh-cn"
+languageName = "简体中文"
+weight = 4
+title = "莫蒂 的 博客"
+
+[params]
+  displayName = "简体中文"
+  isoCode = "zh-cn"
+  rtl = false
+  dateFormat = "2006-01-02"
+  logo = "img/avatar_circle.png"
+  description = "c137的入口。"
+
+[params.author]
+  name = "莫蒂 赵"
+  email = "morty.zhaoy@gmail.com"
+  image = "img/avatar_circle.png"
+  headline = "我只是个凡人。"
+  bio = "我只是个凡人。"
+  links = [
+    { email = "morty.zhaoy@gmail.com" },
+    { x-twitter = "https://x.com/MortyZhao" },
+    { github = "https://github.com/MortyZhaoy" },
+  ]

@@ -1,4 +1,4 @@
-[submodule "themes/anzhiyu"]
-	path = themes/anzhiyu
-	url = https://github.com/MortyZhaoy/hexo-theme-anzhiyu.git
+[submodule "themes/blowfish"]
+	path = themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
 	branch = main

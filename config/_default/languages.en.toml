@@ -1,0 +1,24 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Morty's Blog"
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/avatar_circle.png"
+  description = "Entrance to c137."
+
+[params.author]
+  name = "Morty Zhao"
+  email = "morty.zhaoy@gmail.com"
+  image = "img/avatar_circle.png"
+  headline = "I'm only human."
+  bio = "I'm only human."
+  links = [
+    { email = "morty.zhaoy@gmail.com" },
+    { x-twitter = "https://x.com/MortyZhao" },
+    { github = "https://github.com/MortyZhaoy" },
+  ]

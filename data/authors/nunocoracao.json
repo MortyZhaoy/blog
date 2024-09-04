@@ -1,0 +1,9 @@
+{
+    "name": "Morty Zhao",
+    "image" : "img/avatar_circle.png",
+    "bio": "c137",
+    "social": [
+        { "twitter": "https://x.com/MortyZhao" },
+        { "github": "https://github.com/MortyZhaoy" }
+    ]
+}
