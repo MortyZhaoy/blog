@@ -155,3 +155,7 @@ smartTOCHideUnfocusedChildren = false
   # bing = ""
   # pinterest = ""
   # yandex = ""
+
+Comments
+  enable = true
+  provider = "waline" 
