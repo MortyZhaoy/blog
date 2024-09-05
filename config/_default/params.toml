@@ -78,6 +78,7 @@ smartTOCHideUnfocusedChildren = false
   showWordCount = false
   sharingLinks = [ "linkedin", "twitter", "bluesky", "reddit", "whatsapp", "telegram", "pinterest", "facebook", "email"]
   showZenMode = true
+  showComments = true
 
 [list]
   showHero = true
@@ -155,7 +156,3 @@ smartTOCHideUnfocusedChildren = false
   # bing = ""
   # pinterest = ""
   # yandex = ""
-
-Comments
-  enable = true
-  provider = "waline" 
