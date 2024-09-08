@@ -14,10 +14,11 @@ enableCodeCopy = true
 
 replyByEmail = false
 
-mainSections = ["docs"]
+mainSections = ["posts"]
 # robots = ""
 
-disableImageOptimization = false
+disableImageZoom = false
+disableImageOptimization = true
 disableTextInHeader = false
 # backgroundImageWidth = 1200
 
@@ -44,7 +45,7 @@ smartTOCHideUnfocusedChildren = false
   showRecent = false
   showRecentItems = 6
   showMoreLink = true
-  showMoreLinkDest = "docs"
+  showMoreLinkDest = "posts"
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
